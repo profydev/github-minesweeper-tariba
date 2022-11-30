@@ -1,4 +1,4 @@
 {
-  "commands": [],
-  "what": "my first edit in the minesweeper"
+  "commands": ["clear A8"]
+  
 }
